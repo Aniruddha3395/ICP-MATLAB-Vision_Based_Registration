@@ -17,7 +17,7 @@ scan_pts = [];
 num_iter = 300;
 
 model_ptcloud_data = 'Blade_ptcloud.csv';
-scan_ptcloud_data = 'BladeScan3.csv';
+scan_ptcloud_data = 'BladeScan1.csv';
 
 if view_data
     model_ptcloud = dlmread(model_ptcloud_data);
